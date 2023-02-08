@@ -13,8 +13,11 @@ echo "Please enter numeric value"
 
 else
 echo "Table of $n is : "
-for (( i=0 ; i<=10 ; i++ ))
+
+i=1
+while [ $i -le 10 ]
 do
 echo " $n * $i = $((i*n))"
+i=$((i+1))
 done
 fi
