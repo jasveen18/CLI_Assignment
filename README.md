@@ -20,8 +20,10 @@ A2.
     
 A3. 
 
-    Taken the input from the user. If value is less than 2 then output number is not prime.
-    Used for loop for checking prime condition. Checking n%i==0 and updating flag variable.
+    Taken the input from the user. 
+    If value is less than 2 then output number is not prime.
+    Used for loop for checking prime condition. 
+    Checking n%i==0 and updating flag variable.
     At the end if flag value is 1 then number is not prime else number is prime. 
 
 A4. 
