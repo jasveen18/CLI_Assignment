@@ -8,6 +8,11 @@
 echo "Enter a number: "
 read n
 
+if [ -z $n ];
+then
+  echo "Please enter a valid input"
+fi  
+
 function Prime(){
 
     no=$1
