@@ -8,10 +8,9 @@ Q2. Taken the input from the user and also handled the case where number can be 
     Used while loop for calculating the table of the user input number upto 10.
     The output is also represented in good and correct form.
     
-Q3. Taken the input from the user, here empty number case is not handed(altough it was not mentioned in the question).
+Q3. Taken the input from the user and also handled the case where number can be empty.
     Taken the i value equal to 2 and using while loop for checking i<n/2. If true then checking n%i==0 and updating flag variable
     and updating i++. At the end if flag value is 1 then number is not prime else number is prime. Condition for number less than 2 is also maintained.
-    Here function has to be build to check if number is prime which is not there.
 
 Q4. Used mkdir for creating directory.
     Used touch for creating file.
