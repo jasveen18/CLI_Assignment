@@ -16,7 +16,7 @@ A1.
 A2. 
 
     Taken input from the user using `read n` and handled the case where number can be empty using `-z $n`.
-    Used for loop for calculating the table of the user input number upto 10.
+    Used while loop for calculating the table of the user input number upto 10.
     
 A3. 
 
